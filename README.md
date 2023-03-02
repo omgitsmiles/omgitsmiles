@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @omgitsmiles
 - 💻 I’m interested in 🏃, 🚴, 💻
-- 🌱 I’m currently learning Javascript, React.js, Ruby on Rails
+- 🌱 Javascript, React.js, Ruby on Rails
+- 📚 Currently learning Python and Flask
 - 🤝 I’m looking to collaborate on creating new projects with other creatives
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/paolo-alberca/)
 
