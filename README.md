@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omgitsmiles
 - 💻 I’m interested in 🏃, 🚴, 💻
-- 🌱 Javascript, Typescript, React.js, Ruby on Rails, Python, & Flask
-- 📚 Currently learning React Native & Node.js
+- 🌱 Javascript, Typescript, Angular, React.js, Node.js, Next.js, Java, Spring Boot, Ruby on Rails, Python, Flask, React Native, 
+- 📚 Currently learning Java & Spring Boot
 - 🤝 I’m looking to collaborate on creating new projects with other creatives
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/paolo-alberca/) or [Portfolio](https://paoloalberca.com)
 
